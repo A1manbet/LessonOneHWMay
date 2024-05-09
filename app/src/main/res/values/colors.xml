@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#C197D2</color>
+    <color name="mauve">#D3B1C2</color>
+    <color name="orchid">#613659</color>
+    <color name="dark_mauve">#936C7F</color>
+</resources>
